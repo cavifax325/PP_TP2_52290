@@ -52,7 +52,7 @@ El código está organizado en los siguientes paquetes para garantizar un alto n
 
 1. Clonar el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/PP_TP2_tuLegajo.git
+   git clone https://github.com/cavifax325/PP_TP2_52290
    ```
 2. Abrir el proyecto en **IntelliJ IDEA**.
 3. Compilar el proyecto y resolver las dependencias del JDK si es necesario.
