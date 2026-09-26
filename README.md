@@ -58,7 +58,7 @@ El código está organizado en los siguientes paquetes para garantizar un alto n
 3. Compilar el proyecto y resolver las dependencias del JDK si es necesario.
 4. Ejecutar la clase principal `App.java`.
 
-> **Nota:** La captura de pantalla de la salida por consola solicitada en las pautas de entrega se encuentra adjunta en este mismo repositorio (ver archivo de imagen correspondiente).
+
 
 ## 👨‍💻 Autor
 
